@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, my name is José 😁
+
+I'm a MSc. in Computer Science student from Chile. I'm currently working on my master's thesis on Language Models for Spanish under the supervision of [Felipe Bravo-Márquez](https://felipebravom.com/).
+
+I'm the creator of [BETO](https://github.com/dccuchile/beto), the first BERT-like language model for Spanish, and [ALBETO](https://github.com/dccuchile/lightweight-spanish-language-models), which is a series of ALBERT models for Spanish.
+
+I'm member of the [ReLeLa](https://relela.com/) research group at [DCC UChile](https://dcc.uchile.cl) and my research interests include Artificial Intelligence and how to handle and optimize these systems for production environments.
+
+On my spare time I enjoy from listen to music and learning new things from podcasts or audiobooks.
+
+Please feel free to reach me, my e-mail is in my short bio on the left.
 
 <!--
 **josecannete/josecannete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
