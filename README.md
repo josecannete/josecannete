@@ -1,8 +1,8 @@
 ### Hi there, my name is José 😁
 
-I'm a MSc. in Computer Science student from Chile. I'm currently working on my master's thesis on Language Models for Spanish under the supervision of [Felipe Bravo-Márquez](https://felipebravom.com/).
+I'm a MSc. in Computer Science student from Chile. I'm currently working on my master's thesis on **Language Models for Spanish** under the supervision of [Felipe Bravo-Márquez](https://felipebravom.com/).
 
-I'm the creator of [BETO](https://github.com/dccuchile/beto), the first BERT-like language model for Spanish, and [ALBETO](https://github.com/dccuchile/lightweight-spanish-language-models), which is a series of ALBERT models for Spanish.
+I'm the creator of [**BETO**](https://github.com/dccuchile/beto), the first BERT-like language model for Spanish, and [**ALBETO**](https://github.com/dccuchile/lightweight-spanish-language-models), which is a series of ALBERT models for Spanish.
 
 I'm member of the [ReLeLa](https://relela.com/) research group at [DCC UChile](https://dcc.uchile.cl) and my research interests include Artificial Intelligence and how to handle and optimize these systems for production environments.
 
