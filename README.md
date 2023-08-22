@@ -1,14 +1,15 @@
-### Hi there, my name is José 😁
+### Hello there, I'm José! 😁
 
-I'm a MSc. in Computer Science student from Chile. I'm currently working on my master's thesis on **Language Models for Spanish** under the supervision of [Felipe Bravo-Márquez](https://felipebravom.com/).
+I'm a Senior Machine Learning Engineer at Walmart, passionate about leveraging AI for real-world impact. I hold an MSc. in Computer Science, graduated from Universidad de Chile, and specialize in Language Models.
 
-I'm the creator of [**BETO**](https://github.com/dccuchile/beto), the first BERT-like language model for Spanish, and [**ALBETO**](https://github.com/dccuchile/lightweight-spanish-language-models), which is a series of ALBERT models for Spanish.
+I pioneered [**BETO**](https://github.com/dccuchile/beto), the first BERT-like model for Spanish, and introduced [**ALBETO**](https://github.com/dccuchile/lightweight-spanish-language-models), a suite of light and fast models based in ALBERT for Spanish. 
 
-I'm member of the [ReLeLa](https://relela.com/) research group at [DCC UChile](https://dcc.uchile.cl) and my research interests include Artificial Intelligence and how to handle and optimize these systems for production environments.
+Formerly a founding member of the [ReLeLa](https://relela.com/) research group at [DCC UChile](https://dcc.uchile.cl), I've passionately explored Artificial Intelligence and optimizing systems for real-world applications. 
 
-On my spare time I enjoy from listen to music and learning new things from podcasts or audiobooks.
+Outside of work, music and podcasts are my go-to sources for relaxation and learning.
 
-Please feel free to reach me, my e-mail is in my short bio on the left.
+Feel free to reach out – you'll find my contact details in the adjacent bio.
+
 
 <!--
 **josecannete/josecannete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
